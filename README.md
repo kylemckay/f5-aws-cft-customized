@@ -1,4 +1,3 @@
-# f5-aws-cft-customized
 ## Customized AWS CloudForm templates ##
 
 Find various customized AWS CloudFormation templates in this repo.
